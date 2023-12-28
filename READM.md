@@ -7,9 +7,9 @@ Study_HTML 프로젝트를 **소개**합니다.
 3. 프로젝트 멤버
 
 ## 프로젝트 청사진 
-![원본프로젝트][def]
+![원본프로젝트][https://fastly.picsum.photos/id/294/200/300.jpg?hmac=37ZMLugCxZOqrLbLvaJ_09fT_uPfl3zlMkICmkVxobg]
 ---
 ### 클라이언트 
 고객사 A에서 업무의뢰를 했다고 가정하고, Toy Project를 진행합니다 
 
-[def]: https://picsum.photos/300/300
+ 
